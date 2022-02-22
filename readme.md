@@ -1,8 +1,26 @@
-<h1 align='center'> Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" />, I’m @sangwanamit621</h1>
+<h2 align='center'> 👉 Motive of a Data Analyst is to reveal the story which data is trying to hide 👈 </h2>
 
-- 👀 My field of insterest is in Data Analytics and Science  
-- 🌱 I’m currently learning Data Analysis related tools and technologies like PowerBI , Tableau, SQL and Python
-- 📱 Contact me on sangwanamit621@gmail.com
+<h1 align='center'> Hi <img src="https://raw.githubusercontent.com/pik1989/pik1989/main/Images/Hi.gif" width="40px" />, I’m Amit Sangwan</h1>
+
+- 🔭 My field of __interest__ is __Data Analytics__ 📊|💹 and __Data Science__
+- 🌱 I'm currently __working__ as __Data Analyst Intern__
+- 👯 I'm looking to __collobrate__ on __Data Analysis and Data Science related Projects__
+- 👨‍💻 Click [here](https://github.com/sangwanamit621?tab=repositories) to view all of my projects.
+- 📱 Connect with me on <a href="https://www.linkedin.com/in/amitsangwan643/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-kandpal-4942491a9" height="20" width="25" /></a>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+ <a href="https://powerbi.microsoft.com/en-us/what-is-power-bi/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/> 
+</a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.redeszone.net/app/uploads-redeszone.net/2017/02/mysql-800x388.png" alt="MySQL" width="40" height="40"/> </a> 
+<a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+<a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+<a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+
+
+
 
 <!---
 sangwanamit621/sangwanamit621 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
