@@ -6,7 +6,7 @@
 - 🌱 I'm currently __working__ as __Data Analyst Intern__
 - 👯 I'm looking to __collobrate__ on __Data Analysis and Data Science related Projects__
 - 👨‍💻 Click [here](https://github.com/sangwanamit621?tab=repositories) to view all of my projects.
-- 📱 Connect with me on <a href="https://www.linkedin.com/in/amitsangwan621/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-kandpal-4942491a9" height="20" width="25" /></a>
+- 📱 Connect with me on <a href="https://www.linkedin.com/in/sangwanamit621/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar-kandpal-4942491a9" height="20" width="25" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
