@@ -23,7 +23,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sangwanamit621&show_icons=true&theme=dark&locale=en" alt="Amit Sangwan" ></p>
 
 <br  /><br /><br /><br /><br /><br /><br /><br /><br />
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sangwanamit621&theme=light" alt="sagar-modelling" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sangwanamit621&theme=light" alt="Amit Sangwan" /></p>
 
 
 
