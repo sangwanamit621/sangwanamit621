@@ -1,5 +1,3 @@
-<h2 align='center'> 👉 Motive of a Data Analyst is to reveal the story which data is trying to hide 👈 </h2>
-
 <h1 align='center'> Hi, I’m Amit Sangwan</h1>
 
 - 🔭 My field of __interest__ is __Data Engineering__ and __Data Science__
