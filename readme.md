@@ -8,7 +8,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
- <a href="https://aws.amazon.com/what-is-aws/" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.w3schools.com%2Faws%2F&psig=AOvVaw2SWddDugicR_66NhtKaQDF&ust=1764060311533000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDypfayipEDFQAAAAAdAAAAABAE" alt="AWS Cloud" width="80" height="60"/> 
+ <a href="https://aws.amazon.com/what-is-aws/" target="_blank"> <img src="https://media.licdn.com/dms/image/v2/D5612AQERySmtAVp7kQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1680275682788?e=1765411200&v=beta&t=yBd7CYurL8A8oYg884CBMX8xFfyWuiUXUwjFGdNosa0" alt="AWS Cloud" width="80" height="60"/> 
 </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.redeszone.net/app/uploads-redeszone.net/2017/02/mysql-800x388.png" alt="MySQL" width="80" height="60"/> </a> 
 <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://developer-tech.com/wp-content/uploads/sites/3/2021/02/mongodb-atlas-google-cloud-partnership-nosql-databases-integrations-2.jpg" alt="MongoDB" width="80" height="60"/> </a> 
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="60"/> </a> 
