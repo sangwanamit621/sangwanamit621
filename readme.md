@@ -10,7 +10,7 @@
 <p align="left"> 
  <a href="https://aws.amazon.com/what-is-aws/" target="_blank"> <img src="https://media.licdn.com/dms/image/v2/D5612AQERySmtAVp7kQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1680275682788?e=1765411200&v=beta&t=yBd7CYurL8A8oYg884CBMX8xFfyWuiUXUwjFGdNosa0" alt="AWS Cloud" width="80" height="60"/> 
 </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.redeszone.net/app/uploads-redeszone.net/2017/02/mysql-800x388.png" alt="MySQL" width="80" height="60"/> </a> 
-<a href="https://hadoop.apache.org/" target="_blank"> <img src="https://developer-tech.com/wp-content/uploads/sites/3/2021/02/mongodb-atlas-google-cloud-partnership-nosql-databases-integrations-2.jpg" alt="MongoDB" width="80" height="60"/> </a> 
+<a href="https://hadoop.apache.org/" target="_blank"> <img src="https://media.licdn.com/dms/image/v2/D4D12AQETgv5fMiYEXA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1677609185621?e=1765411200&v=beta&t=xZBRmIVh6OQDk6p78Utj1-lkd6r_i3ehp2nfQj5NgCI" alt="MongoDB" width="80" height="60"/> </a> 
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="60"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="80" height="60"/> </a> 
 </p>
